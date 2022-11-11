@@ -1,10 +1,10 @@
 <p align="center">
-### Floris Neon
-#A noeon theme for Floris Board
+ <h2>Floris Neon</h2>
+<h4>A noeon theme for Floris Board</h4>
 </p>
 
 <p align="center">
-	<img src="floris.gif" alt="Screenshot" width="700">
+	<img src="floris.gif" alt="Screenshot" width="700" style="border-radius:15px;">
 </p>
 
 
@@ -31,4 +31,4 @@ Fork this repo, and then open a pull request
 
 ## Maintainer
 
-([Shailendra Maurya](https://github.com/shailendramaurya))
+[Shailendra Maurya](https://github.com/shailendramaurya)
